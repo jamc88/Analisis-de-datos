@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Structure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://www2.inegi.org.mx/servicios/xsd/Calendario.xsd">
+  <HEADER>
+    <ID>INEGI_CL</ID>
+    <Name xml:lang="en">Calendario de Indicadores Económicos</Name>
+    <Prepared>23/11/2023 16:50:34</Prepared>
+    <Sender id="INEGI">
+      <Name xml:lang="en">Instituto Nacional de Estadística y Geografía<Contact><Name xml:lang="en">Atención a usuarios</Name><Email>http://www.inegi.org.mx/inegi/contacto/default.aspx</Email></Contact></Name>
+    </Sender>
+  </HEADER>
+  <DATASET>
+    <CALENDAR>
+      <Date1 PublicationDate="24/11/2023" nemonics="PIBMC_T_O,PIBVPC_T_O,IGAE_M_D,IGAE_M_O,PIBPCEO_T_D,PIBPC_A_O,PIBPC_T_D,PIBPC_T_O,PIB_T_D,PIBVA_T_O,PIBMC_T_O" />
+      <Date2 PublicationDate="27/11/2023" nemonics="BALCOM_M_D,BALCOM_M_O" />
+      <Date3 PublicationDate="30/11/2023" nemonics="DESUNI_M_D,DESUNI_M_O" />
+      <Date4 PublicationDate="04/12/2023" nemonics="INDADE_M_O,IMCPMI_M_O,FORBRU_M_D,FORBRU_M_O" />
+      <Date5 PublicationDate="06/12/2023" nemonics="CONCON_M_O,CONCON_M_D" />
+      <Date6 PublicationDate="07/12/2023" nemonics="INPCV_Q_O,INPCVS_Q_O,INPCVI_Q_O,INPCVSI_Q_O,INPCA_M_O,INPCAC_M_O,INPCACS_M_O,INPCAS_M_O,INPCM_M_O,INPCMS_M_O" />
+      <Date7 PublicationDate="11/12/2023" nemonics="BALCOM_M_D,BALCOM_M_O" />
+      <Date8 PublicationDate="12/12/2023" nemonics="ACTIND_M_D,ACTIND_M_O,INDMANT_M_O" />
+      <Date9 PublicationDate="15/12/2023" nemonics="INDMM_M_D,INDMM_M_O,INDMMC_M_O,INDMMO_M_O,INDMMP_M_O" />
+      <Date10 PublicationDate="18/12/2023" nemonics="ODGBS_T_O,ODGBS_T_D" />
+      <Date11 PublicationDate="20/12/2023" nemonics="VENMEN_M_D,VENMEN_M_O" />
+      <Date12 PublicationDate="21/12/2023" nemonics="INPCV_Q_O,INPCVS_Q_O,INPCVI_Q_O,INPCVSI_Q_O" />
+      <Date13 PublicationDate="22/12/2023" nemonics="BALCOM_M_D,BALCOM_M_O,IGAE_M_D,IGAE_M_O" />
+      <Date14 PublicationDate="28/12/2023" nemonics="DESUNI_M_D,DESUNI_M_O" />
+    </CALENDAR>
+  </DATASET>
+</Structure>
